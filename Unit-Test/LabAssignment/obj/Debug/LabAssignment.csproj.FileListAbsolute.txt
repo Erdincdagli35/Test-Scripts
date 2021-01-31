@@ -1,0 +1,7 @@
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\bin\Debug\LabAssignment.exe.config
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\bin\Debug\LabAssignment.exe
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\bin\Debug\LabAssignment.pdb
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\obj\Debug\LabAssignment.csprojAssemblyReference.cache
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\obj\Debug\LabAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\obj\Debug\LabAssignment.exe
+C:\Users\Erdinc\Desktop\school\4\2.Summer\YMH412-YKGT(SQAT)\LAB\Lab1\LabAssignment\LabAssignment\obj\Debug\LabAssignment.pdb
